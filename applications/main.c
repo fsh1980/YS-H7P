@@ -26,3 +26,6 @@ int main(void)
 
     return RT_EOK;
 }
+
+
+//测试下对不对
