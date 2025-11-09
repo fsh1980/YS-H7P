@@ -1,0 +1,12 @@
+# RT-Thread Studio 自动生成
+Debug/
+rt-thread/
+drivers/
+packages/
+.settings/
+.cproject
+.project
+*.mk
+*.elf
+*.bin
+*.hex
